@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataSetVisualizer", "DataSetVisualizer\DataSetVisualizer.csproj", "{D708FD71-1D12-4957-9A7B-F0D19AF77975}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D708FD71-1D12-4957-9A7B-F0D19AF77975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D708FD71-1D12-4957-9A7B-F0D19AF77975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D708FD71-1D12-4957-9A7B-F0D19AF77975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D708FD71-1D12-4957-9A7B-F0D19AF77975}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {623FB888-79EF-4157-B636-770010C229A6}
+	EndGlobalSection
+EndGlobal
